@@ -1,0 +1,20 @@
+```
+Input                     Output
+"" =>                     []
+"lowercase" =>            ["lowercase"]
+"Class" =>                ["Class"]
+"MyClass" =>              ["My", "Class"]
+"MyC" =>                  ["My", "C"]
+"HTML" =>                 ["HTML"]
+"PDFLoader" =>            ["PDF", "Loader"]
+"AString" =>              ["A", "String"]
+"SimpleXMLParser" =>      ["Simple", "XML", "Parser"]
+"vimRPCPlugin" =>         ["vim", "RPC", "Plugin"]
+"GL11Version" =>          ["GL", "11", "Version"]
+"99Bottles" =>            ["99", "Bottles"]
+"May5" =>                 ["May", "5"]
+"BFG9000" =>              ["BFG", "9000"]
+"BöseÜberraschung" =>     ["Böse", "Überraschung"]
+"Two  spaces" =>          ["Two", "  ", "spaces"]
+"BadUTF8\xe2\xe2\xa1" =>  ["BadUTF8\xe2\xe2\xa1"]
+```
